@@ -4,7 +4,7 @@ const Skills = () => {
       <div className='card mb-3 offset-md-3 bg-dark' style={{width:'auto', height:"100vh", border:"none"}}>
       <div className="row g-0" style={{marginTop:'100px'}}>
           <div className="col-md-4">
-            <img src="public/Images/mern.jpg" className="img-fluid" alt="Image" style={{height:'50vh', width:'100%'}} />
+            <img src="https://codebook.in/static/main/img/courses/mern.jpg" className="img-fluid" alt="Image" style={{height:'50vh', width:'100%'}} />
           </div>
           <div class="col-md-8">
 
