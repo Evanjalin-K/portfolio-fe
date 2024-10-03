@@ -12,7 +12,7 @@ const About = () => {
           </p>
           <div className='text-center mt-5'>
             <Link
-              to={"https://www.canva.com/design/DAF6at4p6Dg/2O-2_SDrDJWF1fn1WaETQw/view?utm_content=DAF6at4p6Dg&utm_campaign=designshare&utm_medium=link&utm_source=editor"}
+              to={"https://drive.google.com/file/d/1pjQiD2L1BPJU13T9z3e96I_xZ8Jx0Wcw/view?usp=sharing"}
               className="btn btn-light mb-3">
              <strong> Show Resume</strong>
             </Link>
