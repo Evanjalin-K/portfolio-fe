@@ -6,8 +6,8 @@ const Home = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-dark" style={{paddingLeft:'10px'}}>
     <div className="container-fluid">
       <Link className="navbar-brand text-light" to={'/'}><strong>Evanjalin Joshva K</strong></Link>
-      <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span className="navbar-toggler-icon"></span>
+      <button className="navbar-toggler bg-white" style={{border:'none'}} type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span className="navbar-toggler-icon "></span>
       </button>
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
