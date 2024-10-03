@@ -5,7 +5,7 @@ const Education = () => {
     <div className='card offset-md-3 bg-dark' style={{width:'auto', height:'100vh', border:'none'}}>
     <div className="row g-0" >
           <div className="col-md-4" style={{marginTop:'100px'}}>
-            <img src="public/images/education.jpg" className="img-fluid" alt="Image" style={{height:'50vh', width:'100%'}} />
+            <img src="https://www.avanse.com/blogs/images/10feb-blog-2023.jpg" className="img-fluid" alt="Image" style={{height:'50vh', width:'100%'}} />
           </div>
           <div class="col-md-8">
         <div className='card-body'>
