@@ -12,7 +12,7 @@ const About = () => {
           </p>
           <div className='text-center mt-5'>
             <Link
-              to={"https://drive.google.com/drive/u/0/folders/1ZGn7EMvabEVx7OrMUsQqGnL78aCtAc87"}
+              to={"https://drive.google.com/file/d/1Z3URrjH2GqAI0TLuZ-Wkig1oOJr7zFGl/view?usp=sharing"}
               className="btn btn-light mb-3">
              <strong> Show Resume</strong>
             </Link>
