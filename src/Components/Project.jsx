@@ -25,9 +25,14 @@ const Project = () => {
          <li className="text-white"> Notifications: Email alerts for job updates and status changes </li>
          <li className="text-white">Direct Application: Streamlined application process.</li>
          </ul>
-         <div className='btn btn-light mt-3 line' style={{marginLeft:"150px"}}>
-            <a href="https://job-board-platform-frontend.netlify.app/" target='_blank'>
-            <strong>View Project</strong></a>
+         <div className='mt-5' style={{marginLeft:"200px"}}>
+            <a
+             href="https://job-board-platform-frontend.netlify.app/" 
+            className="btn btn-light mb-3"
+            target='_blank'  
+            rel="noopener noreferrer" >
+            <strong> View Project </strong>
+            </a>
          </div>
          </div>
          </div>
