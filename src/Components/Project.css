@@ -1,0 +1,14 @@
+a{
+    border-bottom: none;
+    text-decoration: none;
+    color: black;
+
+}
+
+.btn{
+transition: all 0.3s ease; 
+}
+     
+.btn:hover {
+        transform: scale(1.1); 
+}

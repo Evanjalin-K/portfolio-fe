@@ -6,7 +6,7 @@ const Skills = () => {
           <div className="col-md-4">
             <img src="https://codebook.in/static/main/img/courses/mern.jpg" className="img-fluid" alt="Image" style={{height:'50vh', width:'100%'}} />
           </div>
-          <div class="col-md-8">
+          <div className="col-md-8">
 
         <div className='card-body'>
           <div className='class-text' > 

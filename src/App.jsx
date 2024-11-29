@@ -6,6 +6,7 @@ import Skills from './Components/Skills'
 import Education from './Components/Education'
 import Experience from './Components/Experience'
 import All from './Components/All'
+import Project from './Components/Project'
 
 const router = createBrowserRouter([
   {
@@ -28,9 +29,10 @@ const router = createBrowserRouter([
     path:'/education',
     element:<Education />
   },
+  
   {
-    path:'/experience',
-    element: <Experience />
+    path:'/project',
+    element: <Project/>
   }
 ]
   }

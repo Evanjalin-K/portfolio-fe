@@ -7,7 +7,7 @@ const Education = () => {
           <div className="col-md-4" style={{marginTop:'100px'}}>
             <img src="https://www.avanse.com/blogs/images/10feb-blog-2023.jpg" className="img-fluid" alt="Image" style={{height:'50vh', width:'100%'}} />
           </div>
-          <div class="col-md-8">
+          <div className="col-md-8">
         <div className='card-body'>
       <div className="card-text" style={{marginTop:'100px'}}>
         <ul>
@@ -31,3 +31,6 @@ const Education = () => {
 }
 
 export default Education
+
+
+

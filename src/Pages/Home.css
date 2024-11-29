@@ -1,0 +1,20 @@
+/* Hover effect for navbar-brand */
+.navbar-brand {
+    transition: all 0.3s ease; /* Smooth transition for color, background, and zoom */
+  }
+  
+  .navbar-brand:hover {
+    transform: scale(1.1); 
+    border-bottom: solid white;
+
+  }
+  
+.nav-link{
+    transition: all 0.3s ease; /* Smooth transition for color, background, and zoom */
+
+}
+    
+.nav-link:hover {
+    transform: scale(1.1); 
+    border-bottom: solid white;
+}

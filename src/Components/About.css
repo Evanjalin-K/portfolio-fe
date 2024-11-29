@@ -1,0 +1,47 @@
+/* Hover effect for navbar-brand */
+.navbar-brand {
+    transition: all 0.3s ease; /* Smooth transition for color, background, and zoom */
+  }
+  
+  .navbar-brand:hover {
+    transform: scale(1.1); 
+    border-bottom: solid white;
+
+  }
+.paragraph
+ {
+    text-align: justify;
+    border: solid 5px white;
+    border-radius: 20px;
+    padding: 30px;
+    transition: all 0.3s ease; 
+  }
+     
+.btn{
+    transition: all 0.3s ease; 
+    }
+         
+.btn:hover {
+            transform: scale(1.1); 
+    }
+
+    i
+    {
+    transition: all 0.3s ease; 
+    }
+
+ i:hover
+    { 
+        transform: scale(1.1); 
+    }
+
+.background
+{
+    background-color: seagreen;
+}
+
+   
+
+.paragraph:hover{
+    transform: scale(1.1); 
+}
