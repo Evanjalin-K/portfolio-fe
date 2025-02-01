@@ -8,7 +8,7 @@ const Project = () => {
         <div className='card offset-md-2 bg-dark' style={{width:'auto', height:'100vh', border:'none'}}>
         <div className="row g-0" >
               <div className="col-md-4" style={{marginTop:'100px'}}>
-                <img src="https://media.licdn.com/dms/image/v2/D4D12AQEQ9hWRCK1Acw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1680746288444?e=1738195200&v=beta&t=2NHEOcEnVw3598cmfdfBhsD4zTtLiplMIWdN_Y2b9TI" className="img-fluid" alt="Image" style={{height:'30vh', width:'100%'}} />
+                <img src="https://merylmccay.info/wp-content/uploads/2021/01/32-1-1024x597-1.jpg" className="img-fluid" alt="Image" style={{height:'30vh', width:'100%'}} />
               </div>
               <div className="col-md-8">
             <div className='card-body'>
